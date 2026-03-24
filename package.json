@@ -1,0 +1,23 @@
+{
+  "name": "simple-html",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <a href=\"https://o.charles-chrismann.fr/minesweeper/click?x=0&y=0\">:black_large_square:</a> </p>",
+  "homepage": "https://github.com/Charles-Chrismann/simple-html#readme",
+  "bugs": {
+    "url": "https://github.com/Charles-Chrismann/simple-html/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charles-Chrismann/simple-html.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "next": "^16.2.1"
+  }
+}
